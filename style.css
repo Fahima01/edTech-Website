@@ -1,0 +1,27 @@
+.row-image-1{  
+    height: 80vh;
+    background: linear-gradient( rgba(0, 0, 0, 0.5),rgba(0,0,0,0.9)), url(images/cover/cover-1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  .row-image-2{
+    height: 80vh;
+    background: linear-gradient( rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)), url(images/cover/cover-2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .row-image-3{
+    height: 80vh;
+    background: linear-gradient( rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)), url(images/cover/cover-3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+  }
