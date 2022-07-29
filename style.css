@@ -39,10 +39,25 @@
       text-align: center;
       
     }
-    
+
+    .card-review{
+      display: block;
+    }
+    .card-img{
+      width: 22rem;
+
+    }
   }
 
 
 .starts i{
   color: gold;
+}
+
+.socials i{
+  font-size: 18px;
+  background-color: #9E9E9E;
+  padding: 8px;
+  border-radius: 60px;
+  margin: 10px;
 }
